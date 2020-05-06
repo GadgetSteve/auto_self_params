@@ -12,7 +12,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="auto_self_params",
-    version="0.0.1",
+    version="0.0.2",
     author="Steve Barmes",
     author_email="gadgetsteve@hotmail.com",
     license='MIT License',
